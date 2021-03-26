@@ -1,0 +1,20 @@
+.dark { background: rgb(3, 116, 41); width: 6em; height: 6em;}
+.light { background: rgb(222, 245, 211); width: 6em; height: 6em;}
+.tname {width: 6em; height: 6em;}
+.chess-board 
+{
+    width: 6em;
+    height: 6em;
+    
+}
+
+.LabForm
+{
+    background-color: aquamarine;
+    border: black;
+}
+.TableCom
+{
+    width: 700px;
+    height: 1500px;
+}
